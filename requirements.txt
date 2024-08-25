@@ -1,0 +1,8 @@
+langchain-community
+langchain
+crewai
+duckduckgo-search
+gradio
+langchain-core
+langchain-openai
+azure.identity
